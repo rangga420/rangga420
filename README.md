@@ -1,3 +1,5 @@
+![Vue](https://img.shields.io/badge/-ReactJs-05122A?logo=react&style=flat)&nbsp;
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 <h3 align="left">Connect with me:</h3>
 <p align="left">
