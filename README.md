@@ -1,6 +1,12 @@
-![Vue](https://img.shields.io/badge/-ReactJs-05122A?logo=react&style=flat)&nbsp;
-
+![Java](https://img.shields.io/badge/graphql-icon.svg?logo=graphql-icon.svg)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?logo=javascript&style=flat)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vuedotjs)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=php)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rangga-nurhadiansyah-b1051127a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rangga nurhadiansyah" height="30" width="40" /></a>
