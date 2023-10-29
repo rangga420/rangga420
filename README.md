@@ -1,8 +1,4 @@
-### Hi there, I'm [Durgesh Samariya](https://durgeshsamariya.github.io) 👋
 
-#### Languages:
-
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)&nbsp;
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rangga-nurhadiansyah-b1051127a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rangga nurhadiansyah" height="30" width="40" /></a>
